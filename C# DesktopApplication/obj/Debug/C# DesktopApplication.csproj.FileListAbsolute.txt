@@ -1,0 +1,73 @@
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\C# DesktopApplication.exe.config
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\C# DesktopApplication.exe
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\C# DesktopApplication.pdb
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\obj\Debug\C# DesktopApplication.csproj.AssemblyReference.cache
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\obj\Debug\C__DesktopApplication.EContact.resources
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\obj\Debug\C__DesktopApplication.Properties.Resources.resources
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\obj\Debug\C# DesktopApplication.csproj.GenerateResource.cache
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\obj\Debug\C# DesktopApplication.csproj.CoreCompileInputs.cache
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\obj\Debug\C# DesktopApplication.exe
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\obj\Debug\C# DesktopApplication.pdb
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Buffers.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Collections.Immutable.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.ComponentModel.Annotations.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Memory.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Numerics.Vectors.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Buffers.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Collections.Immutable.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Memory.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Numerics.Vectors.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\obj\Debug\C# DesktopApplication.csproj.CopyComplete
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\BouncyCastle.Crypto.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Google.Protobuf.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\K4os.Compression.LZ4.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\K4os.Hash.xxHash.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\MySqlConnector.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Newtonsoft.Json.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Pomelo.JsonObject.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Renci.SshNet.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Google.Protobuf.pdb
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Google.Protobuf.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\K4os.Compression.LZ4.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\K4os.Hash.xxHash.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\MySqlConnector.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Newtonsoft.Json.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Renci.SshNet.xml
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\bin\Debug\Guna.UI2.dll
+E:\Programming\C#\C# DesktopApplication\C# DesktopApplication\obj\Debug\C__DesktopApplication.Form1.resources
